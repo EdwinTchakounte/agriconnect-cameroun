@@ -427,7 +427,7 @@ export const Home: React.FC = () => {
               {
                 title: "Réseau de Producteurs",
                 description: "Plateforme de mise en relation efficace (en cours ...)",
-                image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop",
+                image: "captures/jeune.jpg",
                 metrics: "500+ Membres prevus"
               }
             ].map((demo, index) => (
