@@ -1,0 +1,46 @@
+{
+  "arableLandTimeSeries": [
+    { "year": 2018, "percentage": 13.2, "hectares": 6230000 },
+    { "year": 2019, "percentage": 13.1, "hectares": 6210000 },
+    { "year": 2020, "percentage": 13.1, "hectares": 6200000 },
+    { "year": 2021, "percentage": 13.1, "hectares": 6200000 },
+    { "year": 2022, "percentage": 13.1, "hectares": 6200000 }
+  ],
+  "agriculturalLandTimeSeries": [
+    { "year": 2018, "percentage": 20.8 },
+    { "year": 2019, "percentage": 20.7 },
+    { "year": 2020, "percentage": 20.65 },
+    { "year": 2021, "percentage": 20.63 },
+    { "year": 2022, "percentage": 20.63 }
+  ],
+  "forestAreaTimeSeries": [
+    { "year": 2018, "percentage": 43.2 },
+    { "year": 2019, "percentage": 43.0 },
+    { "year": 2020, "percentage": 42.9 },
+    { "year": 2021, "percentage": 42.85 },
+    { "year": 2022, "percentage": 42.8 }
+  ],
+  "cerealImportsTimeSeries": [
+    { "year": 2019, "valueFCFA": 320500000000 },
+    { "year": 2020, "valueFCFA": 345200000000 },
+    { "year": 2021, "valueFCFA": 356800000000 },
+    { "year": 2022, "valueFCFA": 371200000000 },
+    { "year": 2023, "valueFCFA": 387700000000 }
+  ],
+  "maizeImportsTimeSeries": [
+    { "year": 2018, "tons": 12150 },
+    { "year": 2019, "tons": 15280 },
+    { "year": 2020, "tons": 18960 },
+    { "year": 2021, "tons": 25440 },
+    { "year": 2022, "tons": 31800 },
+    { "year": 2023, "tons": 39991 }
+  ],
+  "dietStructure": [
+    { "food": "Manioc", "percentage": 35.2, "calories": 1247 },
+    { "food": "Maïs", "percentage": 18.5, "calories": 654 },
+    { "food": "Sorgho", "percentage": 8.3, "calories": 293 },
+    { "food": "Riz", "percentage": 7.1, "calories": 251 },
+    { "food": "Blé", "percentage": 4.9, "calories": 173 },
+    { "food": "Autres", "percentage": 26.0, "calories": 920 }
+  ]
+}
