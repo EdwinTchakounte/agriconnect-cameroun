@@ -94,18 +94,7 @@ export const Header: React.FC = () => {
                   Déconnexion
                 </button>
               </div>
-            ) : (
-              <motion.button
-                onClick={() => setShowAuthModal(true)}
-                className="bg-gradient-to-r from-emerald-600 to-yellow-500 text-white px-3 py-2 lg:px-6 lg:py-3 rounded-xl font-semibold hover:from-emerald-700 hover:to-yellow-600 transition-colors shadow-lg text-sm lg:text-base flex items-center space-x-2"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                <LogIn className="w-4 h-4" />
-                <span className="hidden lg:inline">Connexion</span>
-                <span className="lg:hidden">Connexion</span>
-              </motion.button>
-            )}
+            ) : ""}
             
             {/* Language Switcher - Hidden on mobile */}
             <div className="hidden lg:flex items-center space-x-2 bg-emerald-50 rounded-lg px-3 py-2">
